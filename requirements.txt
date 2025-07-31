@@ -6,4 +6,4 @@ seaborn
 flask
 memory_profiler
 streamlit
-scikit-learn
+scikit-learn==1.1.3
